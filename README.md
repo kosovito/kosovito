@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kosovito
 - 👀 I’m interested in improving myself knowledge
-- 🌱 I’m currently getting better in Java 8+, Spring Boot, Docker, Kubernetes, Amazon AWS....
+- 🌱 I’m currently getting better in Java 8+, Spring Boot, Docker, Kubernetes, Amazon AWS and Python
 
 <!---
 kosovito/kosovito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
